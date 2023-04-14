@@ -148,7 +148,7 @@ tool=input(f'{C}[{G}+{C}] Selecione a forma de operação:{B} ')
   elif tool == "8":
      clear()
      import telefone
-     telefone.main()
+     telefone.main(554591567414)
   elif tool == "9":
      import bin
      bin.main()
